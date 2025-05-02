@@ -1,26 +1,33 @@
-<<<<<<< HEAD
-# Pokémon Explorer
+# Poke-Explorer 🧭
 
-This is a web application that allows users to explore Pokémon data. It fetches data from the [PokeAPI](https://pokeapi.co/) and displays information about the first 150 Pokémon.
+A React-based interactive Pokémon explorer that fetches data from the [PokeAPI](https://pokeapi.co/), allowing users to search, filter, and view detailed stats of Pokémon.
 
-## Features
+## 🔥 Features
 
-- Search Pokémon by name in real-time.
-- Filter Pokémon by type (e.g., Fire, Water, Grass, etc.).
-- Responsive design that works on both desktop and mobile devices.
+- 🔍 **Search & Filter**: Find Pokémon by name or filter by items per page.
+- 🧾 **Detailed View**: View full stats, abilities, moves, and evolution chain.
+- ⭐ **Favorites**: Mark and manage your favorite Pokémon using local storage.
+- ⚖️ **Compare**: Compare multiple Pokémon side by side.
+- 🎲 **Random Pokémon**: Jump to a random Pokémon.
+- 🧩 **Error Boundaries**: Handles app errors gracefully.
+- ⚙️ **Performance Optimizations**: Efficient data fetching, routing, and lazy loading.
 
-## Technologies Used
+## 🚀 Tech Stack
 
-- HTML
-- CSS
-- JavaScript (Vanilla)
+- React 
+- React Router DOM
+- Context API
+- Fetch API
+- LocalStorage
 - PokeAPI
 
-## How to Run
+## 📸 Screenshots
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/poke-explorer.git
-=======
-# Poke-explorer
->>>>>>> a6f2f9b57f3b1102ec1c767a300a1b27c195c1db
+> (You can add images later like homepage, detail page, compare view, etc.)
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Kaustubh-bit2610/Poke-explorer.git
+cd Poke-explorer
