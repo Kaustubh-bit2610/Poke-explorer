@@ -1,33 +1,23 @@
-# Poke-Explorer 🧭
+# Poke-Explorer
 
-A React-based interactive Pokémon explorer that fetches data from the [PokeAPI](https://pokeapi.co/), allowing users to search, filter, and view detailed stats of Pokémon.
+Welcome to Poke-Explorer – a simple and interactive Pokémon explorer built using React.  
+This app helps you browse, search, and explore detailed information about Pokémon using data from the PokeAPI.
 
-## 🔥 Features
+## What You Can Do
 
-- 🔍 **Search & Filter**: Find Pokémon by name or filter by items per page.
-- 🧾 **Detailed View**: View full stats, abilities, moves, and evolution chain.
-- ⭐ **Favorites**: Mark and manage your favorite Pokémon using local storage.
-- ⚖️ **Compare**: Compare multiple Pokémon side by side.
-- 🎲 **Random Pokémon**: Jump to a random Pokémon.
-- 🧩 **Error Boundaries**: Handles app errors gracefully.
-- ⚙️ **Performance Optimizations**: Efficient data fetching, routing, and lazy loading.
+- Search and filter Pokémon by name or select how many to view per page
+- View detailed stats, abilities, moves, and evolution chain for each Pokémon
+- Mark your favorite Pokémon and store them in local storage
+- Compare multiple Pokémon side by side
+- View a random Pokémon with one click
+- Enjoy smooth error handling with built-in error boundaries
+- Experience fast performance with optimized data loading and navigation
 
-## 🚀 Tech Stack
+## Tech Stack Used
 
-- React 
-- React Router DOM
-- Context API
-- Fetch API
-- LocalStorage
-- PokeAPI
-
-## 📸 Screenshots
-
-> (You can add images later like homepage, detail page, compare view, etc.)
-
-## 🛠️ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Kaustubh-bit2610/Poke-explorer.git
-cd Poke-explorer
+- React with Hooks and functional components
+- React Router DOM for navigation
+- Context API for state management
+- Fetch API for accessing data from PokeAPI
+- LocalStorage for saving favorites
+- PokeAPI for all Pokémon data
